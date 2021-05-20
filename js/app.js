@@ -3,7 +3,7 @@ document.addEventListener('DOMContentLoaded',()=>{
    let loading = document.querySelector('.loading');
    setTimeout(() => {
     loading.style.display = 'none';
-   }, 500);
+   }, 1200);
    
 })
 
